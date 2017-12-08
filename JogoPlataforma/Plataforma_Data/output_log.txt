@@ -1,0 +1,86 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 460 (ID=0xe22)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+Platform assembly: D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Usuarios\Gabriel\Desktop\Plataforma\Plataforma_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.412309 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.972533 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1683.
+Total: 1.515123 ms (FindLiveObjects: 0.204463 ms CreateObjectMapping: 0.050678 ms MarkObjects: 0.361450 ms  DeleteObjects: 0.897947 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.163575 ms
+
+Unloading 276 unused Assets to reduce memory usage. Loaded Objects now: 372.
+Total: 6.122822 ms (FindLiveObjects: 0.041941 ms CreateObjectMapping: 0.033494 ms MarkObjects: 0.218152 ms  DeleteObjects: 5.828360 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.598826 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 1.303670 ms (FindLiveObjects: 0.071649 ms CreateObjectMapping: 0.049513 ms MarkObjects: 0.310772 ms  DeleteObjects: 0.870860 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.205224 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 0.482905 ms (FindLiveObjects: 0.081260 ms CreateObjectMapping: 0.049513 ms MarkObjects: 0.345140 ms  DeleteObjects: 0.006116 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.160662 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 0.470963 ms (FindLiveObjects: 0.078057 ms CreateObjectMapping: 0.049805 ms MarkObjects: 0.335529 ms  DeleteObjects: 0.006698 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.259690 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 0.497759 ms (FindLiveObjects: 0.095823 ms CreateObjectMapping: 0.050096 ms MarkObjects: 0.344558 ms  DeleteObjects: 0.006407 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.280951 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 0.472711 ms (FindLiveObjects: 0.084756 ms CreateObjectMapping: 0.049222 ms MarkObjects: 0.326500 ms  DeleteObjects: 0.011067 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.196778 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 0.604360 ms (FindLiveObjects: 0.149997 ms CreateObjectMapping: 0.061164 ms MarkObjects: 0.384751 ms  DeleteObjects: 0.006990 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.226486 ms
+
+Unloading 276 unused Assets to reduce memory usage. Loaded Objects now: 375.
+Total: 5.671663 ms (FindLiveObjects: 0.052135 ms CreateObjectMapping: 0.033203 ms MarkObjects: 0.221938 ms  DeleteObjects: 5.363513 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 20e4 -> priority: 1 
+  Thread -> id: a88 -> priority: 1 
